@@ -1,0 +1,2 @@
+# podpis_cyfrowy_bst_lab
+Implementacja podpisu cyfrowego na zajęcia Bezpieczeństwo systemów teleinformatycznych
